@@ -25,7 +25,7 @@ if($result){
     echo '<p>Couldnt save data :c</p>';
 }
     ?>
-    <a href="../inicio.php">Volver</a>
+    <a href="../inicio.html">Volver</a>
 
 </body>
 </html>
